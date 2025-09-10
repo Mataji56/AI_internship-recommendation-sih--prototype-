@@ -93,3 +93,4 @@ if st.button("Get Recommendations"):
                 <img src="{row['logo_url']}" width="120">
             </div>
             """, unsafe_allow_html=True)
+
