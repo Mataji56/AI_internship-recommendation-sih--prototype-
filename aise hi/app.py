@@ -3,7 +3,7 @@ import pandas as pd
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.feature_extraction.text import CountVectorizer
 
-# CSV file ka naam (tumhari CSV same folder me honi chahiye)
+
 CSV_FILE = "data/internships.csv"
 
 # Load internships
@@ -51,6 +51,7 @@ st.markdown("<h1>Find My Internship</h1>", unsafe_allow_html=True)
 # User Inputs
 st.subheader("Enter your details 👇")
 
+name = st.text_input("Your Name")
 education = st.text_input("Education (e.g. Bachelor, Master, Diploma)")
 skills = st.text_input("Skills (comma separated, e.g. Python, SQL, Machine Learning)")
 location = st.text_input("Preferred Location (e.g. Bangalore, Delhi, Bhopal)")
@@ -75,7 +76,10 @@ if st.button("Get Recommendations"):
         internships["similarity"] = similarity_scores
         top_recs = internships.sort_values(by="similarity", ascending=False).head(5)
 
-        st.subheader("🎯 Recommended Internships for You:")
+        if name.strip():
+            st.subheader(f"🎯 Hello {name}, here are your Recommended Internships:")
+        else:
+            st.subheader("🎯 Recommended Internships for You:")
 
         for _, row in top_recs.iterrows():
             st.markdown(f"""
