@@ -1,0 +1,31 @@
+id,title,company,skills_required,location,sector,education_required,logo_url
+1,Data Analyst Intern,Google,Python;SQL,Bangalore,IT,Bachelor,https://logo.clearbit.com/google.com
+2,Web Developer Intern,Microsoft,HTML;CSS;JavaScript,Hyderabad,IT,Bachelor,https://logo.clearbit.com/microsoft.com
+3,AI Intern,OpenAI,Python;ML;DL,Remote,AI,Master,https://logo.clearbit.com/openai.com
+4,Cloud Engineer Intern,Amazon,Cloud;DevOps;Python,Bangalore,Cloud,Bachelor,https://logo.clearbit.com/amazon.com
+5,Software Engineer Intern,Infosys,Java;SQL;DSA,Pune,IT,Bachelor,https://logo.clearbit.com/infosys.com
+6,Data Science Intern,TCS,Python;ML;Statistics,Mumbai,Data,Bachelor,https://logo.clearbit.com/tcs.com
+7,Cybersecurity Intern,Cisco,Networking;Security;Python,Bangalore,Security,Bachelor,https://logo.clearbit.com/cisco.com
+8,Blockchain Intern,IBM,Blockchain;Smart Contracts,Hyderabad,Blockchain,Bachelor,https://logo.clearbit.com/ibm.com
+9,Full Stack Intern,Accenture,React;Node.js;SQL,Chennai,IT,Bachelor,https://logo.clearbit.com/accenture.com
+10,Business Analyst Intern,Deloitte,Excel;SQL;PowerBI,Delhi,Consulting,Bachelor,https://logo.clearbit.com/deloitte.com
+11,Finance Intern,Goldman Sachs,Finance;Excel;Python,Bangalore,Finance,MBA,https://logo.clearbit.com/goldmansachs.com
+12,UI/UX Designer Intern,Adobe,Figma;UI;UX,Noida,Design,Bachelor,https://logo.clearbit.com/adobe.com
+13,Marketing Intern,Flipkart,SEO;Digital Marketing,Bangalore,Marketing,Bachelor,https://logo.clearbit.com/flipkart.com
+14,E-commerce Analyst Intern,Amazon India,Excel;Python;SQL,Hyderabad,E-commerce,Bachelor,https://logo.clearbit.com/amazon.in
+15,ML Intern,Nvidia,Deep Learning;Python,Pune,AI,Master,https://logo.clearbit.com/nvidia.com
+16,Backend Developer Intern,Oracle,Java;Spring;SQL,Hyderabad,IT,Bachelor,https://logo.clearbit.com/oracle.com
+17,Game Developer Intern,Unity,C#;Game Dev;3D,Remote,Gaming,Bachelor,https://logo.clearbit.com/unity.com
+18,Data Engineer Intern,Capgemini,Big Data;Spark;SQL,Chennai,Data,Bachelor,https://logo.clearbit.com/capgemini.com
+19,HR Intern,Wipro,Recruitment;Excel;HRMS,Pune,HR,MBA,https://logo.clearbit.com/wipro.com
+20,Automation Intern,Siemens,Automation;Python;PLC,Gurgaon,Engineering,Bachelor,https://logo.clearbit.com/siemens.com
+21,Research Intern,IIT Delhi,ML;AI;Research,Delhi,Research,Master,https://logo.clearbit.com/iitd.ac.in
+22,Mobile App Developer Intern,Zoho,Flutter;Dart;SQL,Chennai,IT,Bachelor,https://logo.clearbit.com/zoho.com
+23,AR/VR Intern,Meta,Unity;C#;AR/VR,Remote,AR/VR,Bachelor,https://logo.clearbit.com/meta.com
+24,DevOps Intern,RedHat,Linux;DevOps;Docker,Bangalore,DevOps,Bachelor,https://logo.clearbit.com/redhat.com
+25,QA Intern,Cognizant,Testing;Automation;Selenium,Hyderabad,Testing,Bachelor,https://logo.clearbit.com/cognizant.com
+26,Journalism Intern,Times of India,Writing;Editing;Research,Delhi,Media,Bachelor,https://logo.clearbit.com/timesofindia.indiatimes.com
+27,Energy Intern,Reliance,Renewable;Energy;Analysis,Mumbai,Energy,Bachelor,https://logo.clearbit.com/reliance.com
+28,Consulting Intern,KPMG,Excel;Consulting;Analytics,Gurgaon,Consulting,Bachelor,https://logo.clearbit.com/kpmg.com
+29,Legal Intern,Supreme Court of India,Law;Research;Documentation,Delhi,Legal,LLB,https://logo.clearbit.com/supremecourtofindia.nic.in
+30,Healthcare Intern,Apollo Hospitals,Biotech;Pharma;Research,Chennai,Healthcare,Bachelor,https://logo.clearbit.com/apollohospitals.com
